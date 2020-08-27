@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 
+=======
 Bien venue
 Je suis dans devA
+>>>>>>> dev-work
